@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">TakeHome</string>
+  <string name="save">Save</string>
+  <string name="saved">Saved</string>
+  <string name="delete">Delete</string>
+  <string name="load_data_error">Could not load the data.</string>
+  <string name="no_permission">No Permission</string>
+  <string name="back">Back</string>
+</resources>
